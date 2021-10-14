@@ -1,8 +1,8 @@
 {
-  "name": "crudnodejs",
+  "name": "basecrudnodejs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/cassiomatoso/CRUDNodeJS.git",
+  "repository": "https://github.com/cassiomatoso/BaseCRUDNodeJS.git",
   "author": "cassiomatoso <cassiocg98@gmail.com>",
   "license": "MIT",
   "scripts": {
