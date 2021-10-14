@@ -5,6 +5,9 @@
   "repository": "https://github.com/cassiomatoso/CRUDNodeJS.git",
   "author": "cassiomatoso <cassiocg98@gmail.com>",
   "license": "MIT",
+  "scripts": {
+  "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
