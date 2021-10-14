@@ -1,0 +1,11 @@
+{
+  "name": "crudnodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cassiomatoso/CRUDNodeJS.git",
+  "author": "cassiomatoso <cassiocg98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
